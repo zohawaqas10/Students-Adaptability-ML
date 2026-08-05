@@ -34,6 +34,25 @@ This project aims to:
 
 https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
 
+#  Kaggle Notebooks
+
+Explore the complete project implementation on Kaggle:
+
+-  **Phase 1:** Problem Definition & Methodology  
+
+- 📊 **Phase 2:** Exploratory Data Analysis & Data Preprocessing  
+  [https://www.kaggle.com/code/zohawaqas10/phase2](https://www.kaggle.com/code/zohawaqas10/ml-project)
+
+- ⚙️ **Phase 3:** Feature Engineering & Feature Selection  
+  [https://www.kaggle.com/code/zohawaqas10/phase3](https://www.kaggle.com/code/zohawaqas10/ml-project-phase-3)
+
+- 🤖 **Phase 4:** Machine Learning Models & SHAP Explainability  
+  [https://www.kaggle.com/code/zohawaqas10/phase4](https://www.kaggle.com/code/zohawaqas10/ml-project-phase-4)
+
+- 🚀 **Phase 5:** Methodology Improvements (Cross-Validation & LightGBM)  
+  [https://www.kaggle.com/code/zohawaqas10/phase5](https://www.kaggle.com/code/zohawaqas10/phase-5-methodology-improvement)
+
+Each notebook builds upon the previous phase, providing a complete end-to-end machine learning workflow for predicting students' adaptability to online education.
 ### Features
 
 - Gender
