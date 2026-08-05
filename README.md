@@ -171,12 +171,12 @@ The analysis revealed that the following features had the greatest impact on ada
 
 To improve the baseline methodology, the following enhancements were introduced:
 
-- ✅ Feature Engineering
-- ✅ K-Means Clustering
-- ✅ SHAP Explainability
-- ✅ Cross Validation
-- ✅ LightGBM Comparison
-- ✅ Overfitting Analysis
+-  Feature Engineering
+-  K-Means Clustering
+-  SHAP Explainability
+-  Cross Validation
+-  LightGBM Comparison
+-  Overfitting Analysis
 
 These improvements increased the reliability and interpretability of the proposed machine learning pipeline.
 
@@ -212,30 +212,7 @@ These improvements increased the reliability and interpretability of the propose
 
 ### Development Environment
 
-- Jupyter Notebook
 - Kaggle Notebooks
-
----
-
-#  Project Structure
-
-```
-Students-Adaptability-ML/
-
-│
-├── Phase1/
-├── Phase2/
-├── Phase3/
-├── Phase4/
-├── Phase5/
-│
-├── Dataset/
-├── Images/
-├── Results/
-│
-├── README.md
-└── requirements.txt
-```
 
 ---
 
